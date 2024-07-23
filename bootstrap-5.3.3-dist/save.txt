@@ -1,0 +1,36 @@
+<div class="container mt-5 ">
+        <form>
+          <div class="form-group">
+            <label >First Name</label>
+            <input type="text" class="form-control"  required>
+            <div class="invalid-feedback">Please enter your first name</div>
+          </div>
+
+          <div class="form-group">
+            <label>Last Name</label>
+            <input type="text" class="form-control" >
+          </div>
+
+          <div class="form-group">
+            <label >Email</label>
+            <input type="email" class="form-control"  required>
+            <div class="invalid-feedback">Please enter a valid email address</div>
+          </div>
+
+          <div class="form-group">
+            <label >Comment</label>
+            <textarea class="form-control" rows="3"></textarea>
+            <div class="invalid-feedback">Please show us your comment</div>
+
+          </div>
+          <div class="form-group form-check">
+            <input type="checkbox" class="form-check-input"  required>
+            <label class="form-check-label" >I agree to the terms and conditions</label>
+            <div class="invalid-feedback">you mustagree to the terms </div>
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+      </div>
+                src="https://images.unsplash.com/photo-1422220409531-539b75def9c8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" style="height: 500px; object-fit: cover; object-position: center;" alt="Second Slide">
+         src="https://images.unsplash.com/photo-1475257026007-0753d5429e10?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" style="height:500px; object-fit: cover; object-position: center;" alt="Third Slide">
+           src="https://images.unsplash.com/photo-1481956877760-f6dfc6a98342?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" style="height: 500px; object-fit: cover; object-position: center;" alt="First Slide">
